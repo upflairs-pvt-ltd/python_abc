@@ -31,9 +31,6 @@ if task >= 1 and task <=3:
             print("your availablebalence is :",available_amount)
         else:
             print("no suffiecint balance")
-
-    
-
 else:
     print("plz enter valid input in btwn 1 to 3")
 
